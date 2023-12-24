@@ -1,0 +1,40 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "Times New Roman", Times, serif;
+  background-color: azure;
+}
+
+/* EXAMPLE 1: Use useState() to initialize and update data on user action */
+.__main__ {
+  font-size: 2em;
+  font-weight: 500;
+  overflow: hidden;
+}
+
+.__main__ > .__sub__main__ {
+  margin-top: 0.5em;
+  overflow: hidden;
+}
+
+.__main__ > .__sub__main__ > button {
+  padding: 0.5em;
+  margin-top: 0;
+  font-size: 0.5em;
+  font-weight: 500;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 0.3em;
+}
