@@ -5,13 +5,14 @@ Welcome to the React Hooks Handbook! This repository covers React's hooks in pha
 ## Phases
 
 - **Phase 1: useState()**
+- **Phase 2: useEffect()**
 
 ## Getting Started
 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/hooks-handbook.git
+git clone https://github.com/abrehan2/hooks-handbook.git
 ```
 
 ## License
