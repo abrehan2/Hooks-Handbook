@@ -48,7 +48,7 @@ input::-webkit-inner-spin-button {
 } */
 
 /* EXAMPLE 3: Capture and display form input with useState() */
-.__form__main__ {
+/* .__form__main__ {
   height: auto;
   overflow: hidden;
 }
@@ -89,4 +89,27 @@ input::-webkit-inner-spin-button {
   font-size: 2em;
   font-weight: 500;
   overflow: inherit;
+} */
+
+/* useEffect(): */
+.__btn__wrapper {
+  width: 10vw;
+  height: 10vh;
+  overflow: hidden;
+}
+
+.__btn__wrapper button {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.5em;
+  background-color: black;
+  color: white;
+  font-size: 1em;
+}
+
+@media screen and (max-width: 768px) {
+  .__btn__wrapper {
+    width: 25vw;
+    height: 7vh;
+  }
 }
