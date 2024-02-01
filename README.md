@@ -6,7 +6,7 @@ Welcome to the React Hooks Handbook! This repository covers React's hooks in pha
 
 - **Phase 1: useState()**
 - **Phase 2: useEffect()**
-- **Phase 2: useReducer()**
+- **Phase 3: useReducer()**
 
 ## Getting Started
 
