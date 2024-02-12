@@ -7,6 +7,7 @@ Welcome to the React Hooks Handbook! This repository covers React's hooks in pha
 - **Phase 1: [useState()](https://medium.com/@rehannajam2/hooks-handbook-usestate-c9d365b6e13c)**
 - **Phase 2: [useEffect()](https://medium.com/@rehannajam2/hooks-handbook-useeffect-3eb2af1b2268)**
 - **Phase 3: [useReducer()](https://medium.com/@rehannajam2/hooks-handbook-usereducer-4d52c97775f9)**
+- **Phase 4: [useContext()](https://medium.com/@rehannajam2/hooks-handbook-usecontext-87f14ddaac4a)**
 
 ## Getting Started
 
