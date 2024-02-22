@@ -147,3 +147,43 @@ input::-webkit-inner-spin-button {
     width: 65vw;
   }
 } */
+
+/* useRef(): */
+.ref__container {
+  overflow: hidden;
+  width: 50vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.ref__container > input {
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  border-color: #000;
+}
+
+.ref__container > input:focus {
+  outline: none;
+}
+
+.ref__container > p {
+  font-size: 2rem !important;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.ref__container > .ref__container__btn {
+  width: auto;
+  height: auto;
+}
+
+.ref__container > .ref__container__btn > button {
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  background-color: #000;
+  color: #fff;
+  border-color: transparent;
+}
